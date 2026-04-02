@@ -14,6 +14,8 @@ This plugin addresses the scan findings that can be fixed at the WordPress/PHP l
 2. Activate **Security Headers Fixer** in WP Admin → Plugins.
 3. Configure in WP Admin → Settings → **Security Headers**.
 
+OR YOU CAN UPLOAD DIRECTLY IN UPLOAD PLUGIN
+
 ### Recommended rollout order
 
 1. **Enable Referrer-Policy + nosniff + X-Frame-Options** first (low risk).
